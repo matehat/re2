@@ -1,6 +1,11 @@
 # Change Log
 Noteworthy changes to this project will be documented in this file.
 
+## x.y.z - yyyy-mm-dd
+
+### Added
+- Add re2:run/{2,3} for compatibility with re:run/{2,3}.
+
 ## 1.4.0 - 2016-03-14
 ### Fixed
 - Link against libc++ when appropriate.
